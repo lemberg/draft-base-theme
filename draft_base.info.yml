@@ -1,0 +1,12 @@
+name: Draft Base Theme
+type: theme
+package: Custom
+description: 'Base theme for draft'
+core: 8.x
+base theme: classy
+
+# Regions
+regions:
+  header: Header
+  content: Content
+  footer: Footer
