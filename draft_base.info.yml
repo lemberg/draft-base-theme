@@ -5,6 +5,11 @@ description: 'Base theme for draft'
 core: 8.x
 base theme: classy
 
+#libraries
+libraries:
+  - draft_base/app-styles
+  - draft_base/full-page
+
 # Regions
 regions:
   header: Header

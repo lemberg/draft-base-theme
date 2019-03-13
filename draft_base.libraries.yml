@@ -1,0 +1,13 @@
+app-styles:
+  css:
+    theme:
+      build/app/app.css: {}
+    component:
+      build/sitebranding/sitebranding.css: {}
+
+full-page:
+  js:
+    build/vendors~fullpage.js: {}
+    build/fullpage/fullpage.js: {}
+  dependencies:
+    - core/jquery
